@@ -8,3 +8,6 @@
 ``` Python
 newbies = "Hello World"
 ```
+- [ ] I am a boy
+- [ ] I have a friend in Italy
+- [x] I don't like flowers
